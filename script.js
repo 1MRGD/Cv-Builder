@@ -1,4 +1,4 @@
-function printpdf() {
+function pdf() {
     var content = document.getElementById("resume");
   
     const allButtons = document.querySelectorAll("#print button");
